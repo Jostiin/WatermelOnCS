@@ -10,7 +10,7 @@ Para inicar un servidor localhost debera seguir estos pasos:
 - Iniciar el archivo ejecutable llamado WatermelonServer.exe
 - Iniciar el servidor con Turn On
 
-Para crear dentro del localhost no es necesario cambiar el HOST, y el PORT
+Para crear dentro del localhost no es necesario cambiar el HOST y el PORT
 predeterminados de la app.
 # Iniciar cliente
 Para conectarse al chat solo se necesita seguir estos pasos:
