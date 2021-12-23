@@ -25,4 +25,5 @@ no es necesario cambiar, ya que estan predeterminados
 Observaciones de errores de WatermelOnCS
 - Error al cerrar conexion 
 # Soluciones
+Solucion de errores de WatermelOnCS
 - Finalizar Tarea con el Administrador de tareas
